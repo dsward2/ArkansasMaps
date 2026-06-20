@@ -8,3 +8,8 @@ Arkansas_Topo_Index_grid_with_highways.tif is a georeferenced map of Arkansas sh
 The map is a GeoTIFF (EPSG:3857) built from official data sources: Census TIGER for county boundaries and the USGS National Map Indices geodatabase for the quad grid. It's designed to load in QField on a phone so you can see your GPS location relative to which topo quad you're standing in — handy for hiking, hunting, or any fieldwork where you're cross-referencing paper topo maps.
 
 Arkansas_Topo_Index_simple_grid.tif is a similar map, but without the raster map of highways in the background.
+
+This screenshot shows the map displayed in QField.app on an iPhone.  The user's location is shown on the map, and the map name for that location is "Conway".
+
+![Screenshot of an iPhone running QField.app, showing a map of Arkansas with the user's location marked in Conway.](topo-screenshot.png)
+
