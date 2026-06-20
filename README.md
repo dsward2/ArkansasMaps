@@ -1,7 +1,9 @@
 # ArkansasMaps
-## A repository of free, open-source Arkansas map data in GeoTIFF format, designed to quickly find the map name for the USGS 7.5 minute topo map at your current location - without wireless data access.
+## A repository of free, open-source Arkansas map data in GeoTIFF format, designed to quickly find the map name for the USGS 7.5 minute topo map at your current location.
 
-These maps are especially useful for hiking and canoeing in the Ozark and Ouachita National Forests.
+These custom georeferenced maps are especially useful for hiking and canoeing in the Ozark and Ouachita National Forests because they work without access to wireless data.  You can store them on your smartphone and use them anywhere in the State of Arkansas with the appropriate software.
+
+---
 
 ### Arkansas County Maps with USGS 7.5-Minute Topo Quad Index in GeoTIFF format
 
@@ -9,11 +11,13 @@ These maps are especially useful for hiking and canoeing in the Ozark and Ouachi
 
 The map is a GeoTIFF (EPSG:3857) built from official data sources: Census TIGER for county boundaries and the USGS National Map Indices geodatabase for the quad grid. It's designed to load in QField on a phone so you can see your GPS location relative to which topo quad you're standing in — handy for hiking, hunting, or any fieldwork where you're cross-referencing paper topo maps.
 
+This screenshot shows the map displayed in QField.app on an iPhone.  The user's location is marked on the map, based on the live GPS coordinates of the iPhone's current locaton.  The grid for that location shows that the USGS 7.5 minute topographical map is named "Conway".
+
 <img src="topo-screenshot.png" width="75%" alt="Screenshot of an iPhone running QField.app, showing a map of Arkansas with the user's location marked in Conway." />
 
 **Arkansas_Topo_Index_simple_grid.tif** is a similar map, but without the raster map of highways in the background.
 
-This screenshot shows the map displayed in QField.app on an iPhone.  The user's location is marked on the map, based on the live GPS coordinates of the iPhone's current locaton.  The grid for that location shows that the USGS 7.5 minute topographical map is named "Conway".
+---
 
 ### Hi-Res Maps for QField.app on iPhone or Android
 
