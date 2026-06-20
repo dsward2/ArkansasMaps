@@ -1,7 +1,7 @@
 # ArkansasMaps
 ## A repository of free, open-source Arkansas map data in GeoTIFF format, designed to quickly find the map name for the USGS 7.5 minute topo map at your current location.
 
-These custom georeferenced maps are especially useful for hiking and canoeing in the Ozark and Ouachita National Forests because they work without access to wireless data.  You can store them on your smartphone and use them anywhere in the State of Arkansas with the appropriate software.
+These custom georeferenced maps are especially useful for hiking and canoeing in the Ozark and Ouachita National Forests because they work without access to wireless data.  You can store them on your smartphone and use them anywhere in the State of Arkansas with the appropriate software.  These maps work with the GPS coordinates on your phone to automatically show your location and identify the county name and USGS topographical map name for your current location.
 
 ---
 
@@ -23,7 +23,7 @@ This screenshot shows the map displayed in QField.app on an iPhone.  The user's 
 
 **Arkansas_QField_USGS_Topo_Finder.zip** - This bundle of four maps for the QField mobile app provides a variety of high-resolution raster backgrounds that are helpful for finding topo maps - even when wireless data service is not available.  
 
-[QField.app](https://qfield.org) is a free, open-source app for iPhone, Android and other devices.  It is a mobile companion app to the popular QGIS sytstem, and it is capable of managing many topo maps on your device without extra fees or limitations on the number of maps you can use.  QField is available for installation at your favorite app store.
+[QField.app](https://qfield.org) is a free, [open-source]([https://qfield.org](https://github.com/opengisch/QField)) app for iPhone, Android and other devices.  It is a mobile companion app to the popular QGIS sytstem, and it is capable of managing many topo maps on your device without extra fees or limitations on the number of maps you can use.  QField is available for installation at your favorite app store.
 
 The background images are previewed below:
 
