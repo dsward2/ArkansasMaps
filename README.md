@@ -23,7 +23,7 @@ This screenshot shows the map displayed in QField.app on an iPhone.  The user's 
 
 **Arkansas_QField_USGS_Topo_Finder.zip** - This bundle of four maps for the QField mobile app provides a variety of high-resolution raster backgrounds that are helpful for finding topo maps - even when wireless data service is not available.  
 
-[QField.app](https://qfield.org) is a free, [open-source]([https://qfield.org](https://github.com/opengisch/QField)) app for iPhone, Android and other devices.  It is a mobile companion app to the popular QGIS sytstem, and it is capable of managing many topo maps on your device without extra fees or limitations on the number of maps you can use.  QField is available for installation at your favorite app store.
+[QField.app](https://qfield.org) is a free, [open-source](https://github.com/opengisch/QField) app for iPhone, Android and other devices.  It is a mobile companion app to the popular QGIS sytstem, and it is capable of managing many topo maps on your smartphone without extra fees or limitations on the number of maps you can use.  QField is available for installation at your favorite app store.
 
 The background images are previewed below:
 
