@@ -9,7 +9,7 @@ The map is a GeoTIFF (EPSG:3857) built from official data sources: Census TIGER 
 
 Arkansas_Topo_Index_simple_grid.tif is a similar map, but without the raster map of highways in the background.
 
-This screenshot shows the map displayed in QField.app on an iPhone.  The user's location is marked on the map, based on the live GPS coordinates of the iPhone's current locaton.  The grid for that location shows that the USGS 7.5 minute topological map is named "Conway".
+This screenshot shows the map displayed in [QField.app]([https://github.com](https://github.com/opengisch/QField)) on an iPhone.  The user's location is marked on the map, based on the live GPS coordinates of the iPhone's current locaton.  The grid for that location shows that the USGS 7.5 minute topological map is named "Conway".
 
 ![Screenshot of an iPhone running QField.app, showing a map of Arkansas with the user's location marked in Conway.](topo-screenshot.png)
 
