@@ -1,7 +1,7 @@
 # ArkansasMaps
 A repository of free, open-source Arkansas map data in GeoTIFF format.
 
-Arkansas County Map with USGS 7.5-Minute Topo Quad Index
+## Arkansas County Map with USGS 7.5-Minute Topo Quad Index
 
 Arkansas_Topo_Index_grid_with_highways.tif is a georeferenced map of Arkansas showing all 75 county boundaries overlaid with the complete index grid for USGS 7.5-minute topographic maps. Each grid cell is labeled with its official quad name — there are 874 of them covering the state. The background is ESRI's World Topo layer showing shaded relief, roads, and contours.
 
