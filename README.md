@@ -7,6 +7,8 @@ This repository contains two kinds of georeferenced maps:
 1) Maps in standard GeoTIFF format which can be imported into several software applications, typically about 4 MB per map, and
 2) High-resolution maps intended specifically for use with the QField app on iOS or Android devices, uses about 180 MB for a bundle of four maps.
 
+Click on the "Releases" link on this page to access the free downloads for the maps.
+
 ---
 
 ### Arkansas County Maps with USGS 7.5-Minute Topo Quad Index in GeoTIFF format
