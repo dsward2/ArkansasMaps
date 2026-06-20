@@ -3,6 +3,10 @@
 
 These custom georeferenced maps are especially useful for hiking and canoeing in the Ozark and Ouachita National Forests because they work without access to wireless data.  You can store them on your smartphone and use them anywhere in the State of Arkansas with the appropriate software.  These maps work with the GPS coordinates on your phone to automatically show your location and identify the county name and USGS topographical map name for your current location.
 
+This repository contains two kinds of georeferenced maps:
+1) Maps in standard GeoTIFF format which can be imported into several software applications, typically about 4 MB per map, and
+2) High-resolution maps intended specifically for use with the QField app on iOS or Android devices, uses about 180 MB for a bundle of four maps.
+
 ---
 
 ### Arkansas County Maps with USGS 7.5-Minute Topo Quad Index in GeoTIFF format
