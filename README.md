@@ -1,5 +1,5 @@
 # ArkansasMaps
-A repository of Arkansas map data
+A repository of Arkansas map data in GeoTIFF format.
 
 Arkansas County Map with USGS 7.5-Minute Topo Quad Index
 
