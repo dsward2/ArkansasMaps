@@ -15,6 +15,10 @@ This screenshot shows the map displayed in [QField.app](https://github.com/openg
 
 ### Hi-Res Maps for QField.app on iPhone or Android
 
-This bundle of four maps for the QField mobile app provides a variety of high-resolution raster backgrounds that are helpful for finding topo maps.  The background images are previewed below:
+**Arkansas_QField_USGS_Topo_Finder.zip** - This bundle of four maps for the QField mobile app provides a variety of high-resolution raster backgrounds that are helpful for finding topo maps.  The background images are previewed below:
 
 ![Background tile options for background map.](Arkansas_tile_options.jpg)
+
+This screenshot shows how QField allows selection of index cells and counties, which are identified in a result table on screen.
+
+![QField-demo-map.](QField-demo.jpg)
